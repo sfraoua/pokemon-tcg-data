@@ -7956,6 +7956,7 @@
   {
     "id": "swsh9-132",
     "name": "Boss's Orders",
+    "subname": "Cyrus",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
@@ -8337,6 +8338,7 @@
   {
     "id": "swsh9-147",
     "name": "Professor's Research",
+    "subname": "Professor Rowan",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"

@@ -9938,7 +9938,8 @@
   },
   {
     "id": "swsh1-178",
-    "name": "Professor's Research (Professor Magnolia)",
+    "name": "Professor's Research",
+    "subname": "Professor Magnolia",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
@@ -11011,7 +11012,8 @@
   },
   {
     "id": "swsh1-201",
-    "name": "Professor's Research (Professor Magnolia)",
+    "name": "Professor's Research",
+    "subname": "Professor Magnolia",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
@@ -11340,7 +11342,8 @@
   },
   {
     "id": "swsh1-209",
-    "name": "Professor's Research (Professor Magnolia)",
+    "name": "Professor's Research",
+    "subname": "Professor Magnolia",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
