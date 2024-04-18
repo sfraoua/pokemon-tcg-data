@@ -36,7 +36,7 @@
   {
     "id": "basep",
     "name": "Wizards Black Star Promos",
-    "series": "Base",
+    "series": "Promos",
     "printedTotal": 53,
     "total": 53,
     "legalities": {
@@ -358,7 +358,7 @@
   {
     "id": "np",
     "name": "Nintendo Black Star Promos",
-    "series": "NP",
+    "series": "Promos",
     "printedTotal": 40,
     "total": 40,
     "legalities": {
@@ -392,7 +392,7 @@
   {
     "id": "tk1a",
     "name": "EX Trainer Kit Latias",
-    "series": "EX",
+    "series": "Trainer Kit",
     "printedTotal": 10,
     "total": 10,
     "legalities": {
@@ -409,7 +409,7 @@
   {
     "id": "tk1b",
     "name": "EX Trainer Kit Latios",
-    "series": "EX",
+    "series": "Trainer Kit",
     "printedTotal": 10,
     "total": 10,
     "legalities": {
@@ -560,7 +560,7 @@
   {
     "id": "exe1",
     "name": "EX Energies",
-    "series": "EX",
+    "series": "energies",
     "total": 6,
     "legalities": {
       "unlimited": "Legal"
@@ -621,7 +621,7 @@
   {
     "id": "tk2a",
     "name": "EX Trainer Kit 2 Plusle",
-    "series": "EX",
+    "series": "Trainer Kit",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -638,7 +638,7 @@
   {
     "id": "tk2b",
     "name": "EX Trainer Kit 2 Minun",
-    "series": "EX",
+    "series": "Trainer Kit",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -788,7 +788,7 @@
   {
     "id": "dpe1",
     "name": "Diamond & Pearl Energies",
-    "series": "Diamond & Pearl",
+    "series": "energies",
     "total": 8,
     "legalities": {
       "unlimited": "Legal"
@@ -799,7 +799,7 @@
   {
     "id": "dpp",
     "name": "DP Black Star Promos",
-    "series": "Diamond & Pearl",
+    "series": "Promos",
     "printedTotal": 56,
     "total": 56,
     "legalities": {
@@ -849,7 +849,7 @@
   {
     "id": "tk3a",
     "name": "Diamond & Pearl Trainer Kit Manaphy",
-    "series": "Diamond & Pearl",
+    "series": "Trainer Kit",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -866,7 +866,7 @@
   {
     "id": "tk3b",
     "name": "Diamond & Pearl Trainer Kit Lucario",
-    "series": "Diamond & Pearl",
+    "series": "Trainer Kit",
     "printedTotal": 11,
     "total": 11,
     "legalities": {
@@ -1117,7 +1117,7 @@
   {
     "id": "hgsse1",
     "name": "HeartGold & SoulSilver Energies",
-    "series": "HeartGold & SoulSilver",
+    "series": "energies",
     "total": 8,
     "legalities": {
       "unlimited": "Legal"
@@ -1129,7 +1129,7 @@
   {
     "id": "hsp",
     "name": "HGSS Black Star Promos",
-    "series": "HeartGold & SoulSilver",
+    "series": "Promos",
     "printedTotal": 25,
     "total": 25,
     "legalities": {
@@ -1146,7 +1146,7 @@
   {
     "id": "tk4a",
     "name": "HS Trainer Kit Gyarados",
-    "series": "HeartGold & SoulSilver",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1163,7 +1163,7 @@
   {
     "id": "tk4b",
     "name": "HS Trainer Kit Raichu",
-    "series": "HeartGold & SoulSilver",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1248,7 +1248,7 @@
   {
     "id": "bwp",
     "name": "BW Black Star Promos",
-    "series": "Black & White",
+    "series": "Promos",
     "printedTotal": 101,
     "total": 101,
     "legalities": {
@@ -1284,7 +1284,7 @@
   {
     "id": "bwe1",
     "name": "Black & White Energies",
-    "series": "Black & White",
+    "series": "energies",
     "total": 8,
     "legalities": {
       "unlimited": "Legal",
@@ -1296,7 +1296,7 @@
   {
     "id": "mcd11",
     "name": "McDonald's Collection 2011",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -1331,7 +1331,7 @@
   {
     "id": "tk5a",
     "name": "Black & White Trainer Kit Zoroark",
-    "series": "Black & White",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1349,7 +1349,7 @@
   {
     "id": "tk5b",
     "name": "Black & White Trainer Kit Excadrill",
-    "series": "Black & White",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1421,7 +1421,7 @@
   {
     "id": "mcd12",
     "name": "McDonald's Collection 2012",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -1546,7 +1546,7 @@
   {
     "id": "xyp",
     "name": "XY Black Star Promos",
-    "series": "XY",
+    "series": "Promos",
     "printedTotal": 211,
     "total": 216,
     "legalities": {
@@ -1618,7 +1618,7 @@
   {
     "id": "xye1",
     "name": "XY Energies",
-    "series": "XY",
+    "series": "energies",
     "total": 9,
     "legalities": {
       "unlimited": "Legal",
@@ -1631,7 +1631,7 @@
   {
     "id": "tk6a",
     "name": "XY Trainer Kit Noivern",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1649,7 +1649,7 @@
   {
     "id": "tk6b",
     "name": "XY Trainer Kit Sylveon",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1685,7 +1685,7 @@
   {
     "id": "mcd14",
     "name": "McDonald's Collection 2014",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -1720,7 +1720,7 @@
   {
     "id": "tk7a",
     "name": "XY Trainer Kit Bisharp",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1738,7 +1738,7 @@
   {
     "id": "tk7b",
     "name": "XY Trainer Kit Wigglytuff",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1810,7 +1810,7 @@
   {
     "id": "tk8a",
     "name": "XY Trainer Kit Latios",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1828,7 +1828,7 @@
   {
     "id": "tk8b",
     "name": "XY Trainer Kit Latias",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1900,7 +1900,7 @@
   {
     "id": "mcd15",
     "name": "McDonald's Collection 2015",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -1953,7 +1953,7 @@
   {
     "id": "tk9a",
     "name": "XY Trainer Kit Pikachu Libre",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -1971,7 +1971,7 @@
   {
     "id": "tk9b",
     "name": "XY Trainer Kit Suicune",
-    "series": "XY",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -2025,7 +2025,7 @@
   {
     "id": "mcd16",
     "name": "McDonald's Collection 2016",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -2078,7 +2078,7 @@
   {
     "id": "sme1",
     "name": "Sun & Moon Energies",
-    "series": "Sun & Moon",
+    "series": "energies",
     "total": 9,
     "legalities": {
       "unlimited": "Legal",
@@ -2091,7 +2091,7 @@
   {
     "id": "smp",
     "name": "SM Black Star Promos",
-    "series": "Sun & Moon",
+    "series": "Promos",
     "printedTotal": 248,
     "total": 250,
     "legalities": {
@@ -2109,7 +2109,7 @@
   {
     "id": "tk10a",
     "name": "Sun & Moon Trainer Kit Lycanroc",
-    "series": "Sun & Moon",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -2127,7 +2127,7 @@
   {
     "id": "tk10b",
     "name": "Sun & Moon Trainer Kit Alolan Raichu",
-    "series": "Sun & Moon",
+    "series": "Trainer Kit",
     "printedTotal": 30,
     "total": 30,
     "legalities": {
@@ -2217,7 +2217,7 @@
   {
     "id": "mcd17",
     "name": "McDonald's Collection 2017",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -2306,7 +2306,7 @@
   {
     "id": "mcd18",
     "name": "McDonald's Collection 2018",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -2359,7 +2359,7 @@
   {
     "id": "sme2",
     "name": "Sun & Moon Energies (Team Up)",
-    "series": "Sun & Moon",
+    "series": "energies",
     "total": 9,
     "legalities": {
       "unlimited": "Legal",
@@ -2462,7 +2462,7 @@
   {
     "id": "mcd19",
     "name": "McDonald's Collection 2019",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 12,
     "total": 12,
     "legalities": {
@@ -2497,7 +2497,7 @@
   {
     "id": "swshp",
     "name": "SWSH Black Star Promos",
-    "series": "Sword & Shield",
+    "series": "Promos",
     "printedTotal": 307,
     "total": 304,
     "legalities": {
@@ -2534,7 +2534,7 @@
   {
     "id": "swshe1",
     "name": "Sword & Shield Energies",
-    "series": "Sword & Shield",
+    "series": "energies",
     "total": 9,
     "legalities": {
       "unlimited": "Legal",
@@ -2732,7 +2732,7 @@
   {
     "id": "mcd21",
     "name": "McDonald's Collection 2021",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 25,
     "total": 25,
     "legalities": {
@@ -2804,7 +2804,7 @@
   {
     "id": "swshe2",
     "name": "Sword & Shield Energies (Brilliant Stars)",
-    "series": "Sword & Shield",
+    "series": "energies",
     "total": 8,
     "legalities": {
       "unlimited": "Legal",
@@ -2912,7 +2912,7 @@
   {
     "id": "mcd22",
     "name": "McDonald's Collection 2022",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 15,
     "total": 15,
     "legalities": {
@@ -3044,7 +3044,7 @@
   {
     "id": "svp",
     "name": "Scarlet & Violet Black Star Promos",
-    "series": "Scarlet & Violet",
+    "series": "Promos",
     "printedTotal": 102,
     "total": 75,
     "legalities": {
@@ -3063,7 +3063,7 @@
   {
     "id": "sve",
     "name": "Scarlet & Violet Energies",
-    "series": "Scarlet & Violet",
+    "series": "energies",
     "printedTotal": 8,
     "total": 8,
     "legalities": {
@@ -3139,7 +3139,7 @@
   {
     "id": "mcd23",
     "name": "McDonald's Collection 2023",
-    "series": "Other",
+    "series": "McDonald's",
     "printedTotal": 15,
     "total": 15,
     "legalities": {
