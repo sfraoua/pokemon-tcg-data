@@ -1,0 +1,3789 @@
+[
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d5\u30b7\u30ae\u30c0\u30cd",
+    "img": "1st\/1st1001.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3084\u3069\u308a\u304e\u306e\u30bf\u30cd",
+        "cost": [
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u305f\u3089\u3001\u305d\u306e\u6642\u70b9\u3067\u81ea\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u30921\u3064\u3068\u308a\u306e\u305e\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d5\u30b7\u30ae\u30bd\u30a6",
+    "img": "1st\/1st1002.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3064\u308b\u306e\u3080\u3061",
+        "cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "\u3069\u304f\u306e\u3053\u306a",
+        "cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d5\u30b7\u30ae\u30d0\u30ca",
+    "img": "1st\/1st1003.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "100",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u30a8\u30ca\u30b8\u30fc\u30c8\u30e9\u30f3\u30b9",
+        "text": "\u30d5\u30b7\u30ae\u30d0\u30ca\u306f\u81ea\u5206\u306e\u5834\u306b\u3042\u308b\u300c\u8349\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u597d\u304d\u306a\u3060\u3051\u79fb\u52d5\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u300c\u306d\u3080\u308a\u30fb\u30de\u30d2\u30fb\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u6642\u306b\u306f\u4f7f\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+        "cost": [
+          "grass",
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ad\u30e3\u30bf\u30d4\u30fc",
+    "img": "1st\/1st1004.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3044\u3068\u3092\u306f\u304f",
+        "cost": [
+          "grass"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30c8\u30e9\u30f3\u30bb\u30eb",
+    "img": "1st\/1st1005.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u305f\u307e\u308b",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u3046\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002"
+      },
+      {
+        "name": "\u3057\u3073\u308c\u3054\u306a",
+        "cost": [
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d3\u30fc\u30c9\u30eb",
+    "img": "1st\/1st1006.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3069\u304f\u3070\u308a",
+        "cost": [
+          "grass"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b3\u30af\u30fc\u30f3",
+    "img": "1st\/1st1007.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u305f\u307e\u308b",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u3046\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002"
+      },
+      {
+        "name": "\u3069\u304f\u306e\u3053\u306a",
+        "cost": [
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b9\u30d4\u30a2\u30fc",
+    "img": "1st\/1st1008.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30c0\u30d6\u30eb\u30cb\u30fc\u30c9\u30eb",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306e\u51fa\u305f\u6570\u00d730\u306e\u30c0\u30e1\u30fc\u30b8\u3002"
+      },
+      {
+        "name": "\u3069\u304f\u3070\u308a",
+        "cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "damage": "40",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30c9\u30e9\u30f3\u2642",
+    "img": "1st\/1st1009.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3064\u306e\u3067\u3064\u3064\u304f",
+        "cost": [
+          "grass"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u76f8\u624b\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u306a\u3044\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30c9\u30ea\u30fc\u30ce",
+    "img": "1st\/1st1010.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u306b\u3069\u3052\u308a",
+        "cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306e\u3067\u305f\u6570\u00d730\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u3064\u306e\u30c9\u30ea\u30eb",
+        "cost": [
+          "grass",
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30c9\u30ad\u30f3\u30b0",
+    "img": "1st\/1st1011.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "90",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3042\u3070\u308c\u308b",
+        "cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30+",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u76f8\u624b\u306b\u8ffd\u52a010\u30c0\u30e1\u30fc\u30b8\u3001\u300c\u3046\u3089\u300d\u306a\u3089\u81ea\u5206\u306b10\u30c0\u30e1\u30fc\u30b8\u3002"
+      },
+      {
+        "name": "\u3069\u304f\u3069\u304f",
+        "cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u306b\u300c\u3069\u304f\u300d\u30ab\u30a6\u30f3\u30bf\u30fc\u30922\u500b\u306e\u305b\u3001\u30dd\u30b1\u30e2\u30f3\u30c1\u30a7\u30c3\u30af\u3054\u3068\u306b20\u306e\u300c\u3069\u304f\u300d\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30c9\u30ac\u30fc\u30b9",
+    "img": "1st\/1st1012.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304f\u3055\u3044\u30ac\u30b9",
+        "cost": [
+          "grass",
+          "grass"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u3001\u300c\u3046\u3089\u300d\u306a\u3089\u300c\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30e2\u30f3\u30b8\u30e3\u30e9",
+    "img": "1st\/1st1013.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3057\u3081\u3064\u3051\u308b",
+        "cost": [
+          "grass",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u3069\u304f\u306e\u3053\u306a",
+        "cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u3092\u300c\u3069\u304f\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fire"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d2\u30c8\u30ab\u30b2",
+    "img": "1st\/1st1014.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3072\u3063\u304b\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u3072\u306e\u3053",
+        "cost": [
+          "fire",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": "\u81ea\u5206\u306e\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ea\u30b6\u30fc\u30c9",
+    "img": "1st\/1st1015.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304d\u308a\u3055\u304f",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+        "cost": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": "\u81ea\u5206\u306e\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ea\u30b6\u30fc\u30c9\u30f3",
+    "img": "1st\/1st1016.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "120",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u30a8\u30ca\u30b8\u30fc\u30d0\u30fc\u30f3",
+        "text": "\u30ea\u30b6\u30fc\u30c9\u30f3\u306f\u3001\u300c\u708e\u300d\u4ee5\u5916\u306e\u81ea\u5206\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u3068\u3057\u3066\u6271\u3046\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u300c\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u3068\u304d\u306b\u306f\u4f7f\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u307b\u306e\u304a\u306e\u3046\u305a",
+        "cost": [
+          "fire",
+          "fire",
+          "fire",
+          "fire"
+        ],
+        "damage": "100",
+        "text": "\u81ea\u5206\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30922\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ed\u30b3\u30f3",
+    "img": "1st\/1st1017.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3042\u3084\u3057\u3044\u3072\u304b\u308a",
+        "cost": [
+          "fire",
+          "fire"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ad\u30e5\u30a6\u30b3\u30f3",
+    "img": "1st\/1st1018.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u3069\u308f\u304b\u3059",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3092\u9078\u3093\u3067\u3001\u76f8\u624b\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3068\u5165\u308c\u66ff\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u3060\u3044\u3082\u3093\u3058",
+        "cost": [
+          "fire",
+          "fire",
+          "fire",
+          "fire"
+        ],
+        "damage": "80",
+        "text": "\u81ea\u5206\u306e\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ac\u30fc\u30c7\u30a3",
+    "img": "1st\/1st1019.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307b\u306e\u304a",
+        "cost": [
+          "fire",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30a6\u30a3\u30f3\u30c7\u30a3",
+    "img": "1st\/1st1020.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "100",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+        "cost": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": "\u81ea\u5206\u306e\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      },
+      {
+        "name": "\u3068\u3063\u3057\u3093",
+        "cost": [
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "80",
+        "text": "\u81ea\u5206\u306b\u308230\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30dd\u30cb\u30fc\u30bf",
+    "img": "1st\/1st1021.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3051\u3068\u3070\u3059",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "\u307b\u306e\u304a\u306e\u3057\u3063\u307d",
+        "cost": [
+          "fire",
+          "fire"
+        ],
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d6\u30fc\u30d0\u30fc",
+    "img": "1st\/1st1022.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307b\u306e\u304a\u30d1\u30f3\u30c1",
+        "cost": [
+          "fire",
+          "fire"
+        ],
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+        "cost": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": "\u81ea\u5206\u306e\u300c\u708e\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "water"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30bc\u30cb\u30ac\u30e1",
+    "img": "1st\/1st1023.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3042\u308f",
+        "cost": [
+          "water"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u304b\u3089\u306b\u3053\u3082\u308b",
+        "cost": [
+          "water",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ab\u30e1\u30fc\u30eb",
+    "img": "1st\/1st1024.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u3089\u306b\u3053\u3082\u308b",
+        "cost": [
+          "water",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002"
+      },
+      {
+        "name": "\u304b\u307f\u3064\u304f",
+        "cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ab\u30e1\u30c3\u30af\u30b9",
+    "img": "1st\/1st1025.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "100",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u3042\u307e\u3054\u3044",
+        "text": "\u30ab\u30e1\u30c3\u30af\u30b9\u306f\u81ea\u5206\u306e\u300c\u6c34\u300d\u30dd\u30b1\u30e2\u30f3\u306b\u5bfe\u3057\u3066\u3001\u624b\u672d\u306e\u300c\u6c34\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30921\u5ea6\u306b\u4f55\u679a\u3067\u3082\u3064\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u300c\u306d\u3080\u308a\u30fb\u30de\u30d2\u30fb\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u6642\u306f\u4f7f\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7",
+        "cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "damage": "40+",
+        "text": "\u300c\u6c34\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30921\u3064\u8ffd\u52a0\u3059\u308b\u3068\u300110\u30c0\u30e1\u30fc\u30b8\u8ffd\u52a0\u3067\u304d\u308b\u3002(\u8ffd\u52a0\u306f2\u3064\u307e\u3067)"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30e7\u30ed\u30e2",
+    "img": "1st\/1st1026.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307f\u305a\u3067\u3063\u307d\u3046",
+        "cost": [
+          "water"
+        ],
+        "damage": "10+",
+        "text": "\u300c\u6c34\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30921\u3064\u8ffd\u52a0\u3059\u308b\u3068\u300110\u30c0\u30e1\u30fc\u30b8\u8ffd\u52a0\u3067\u304d\u308b\u3002(\u8ffd\u52a0\u306f2\u3064\u307e\u3067)"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30e7\u30ed\u30be",
+    "img": "1st\/1st1027.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30c9\u308f\u3059\u308c",
+        "cost": [
+          "water",
+          "water"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u300c\u30ef\u30b6\u300d\u30921\u3064\u9078\u3076\u3002\u6b21\u306e\u76f8\u624b\u306e\u756a\u3067\u305d\u306e\u300c\u30ef\u30b6\u300d\u306f\u3064\u304b\u3048\u306a\u3044\u3002"
+      },
+      {
+        "name": "\u304a\u3046\u3075\u304f\u3073\u3093\u305f",
+        "cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "damage": "30\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u3001\u8868\u306e\u51fa\u305f\u6570\u00d730\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cb\u30e7\u30ed\u30dc\u30f3",
+    "img": "1st\/1st1028.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "90",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307f\u305a\u3067\u3063\u307d\u3046",
+        "cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "damage": "30+",
+        "text": "\u300c\u6c34\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30921\u3064\u8ffd\u52a0\u3059\u308b\u3068\u300110\u30c0\u30e1\u30fc\u30b8\u8ffd\u52a0\u3067\u304d\u308b\u3002(\u8ffd\u52a0\u306f2\u3064\u307e\u3067)"
+      },
+      {
+        "name": "\u3046\u305a\u3057\u304a",
+        "cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "40",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d1\u30a6\u30ef\u30a6",
+    "img": "1st\/1st1029.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u305a\u3064\u304d",
+        "cost": [
+          "water"
+        ],
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b8\u30e5\u30b4\u30f3",
+    "img": "1st\/1st1030.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0",
+        "cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+        "cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d2\u30c8\u30c7\u30de\u30f3",
+    "img": "1st\/1st1031.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3072\u3089\u3066\u3046\u3061",
+        "cost": [
+          "water"
+        ],
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b9\u30bf\u30fc\u30df\u30fc",
+    "img": "1st\/1st1032.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3058\u3053\u3055\u3044\u305b\u3044",
+        "cost": [
+          "water",
+          "water"
+        ],
+        "damage": "",
+        "text": "\u81ea\u5206\u306e\u300c\u6c34\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u5168\u3066\u3068\u308a\u306e\u305e\u304f\u3002"
+      },
+      {
+        "name": "\u30b9\u30bf\u30fc\u30d5\u30ea\u30fc\u30ba",
+        "cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b3\u30a4\u30ad\u30f3\u30b0",
+    "img": "1st\/1st1033.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u305f\u3044\u3042\u305f\u308a",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u3058\u305f\u3070\u305f",
+        "cost": [
+          "water"
+        ],
+        "damage": "10\u00d7",
+        "text": "\u81ea\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u306e\u6570\u00d710\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ae\u30e3\u30e9\u30c9\u30b9",
+    "img": "1st\/1st1034.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "100",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u308a\u3085\u3046\u306e\u3044\u304b\u308a",
+        "cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093",
+        "cost": [
+          "water",
+          "water",
+          "water",
+          "water"
+        ],
+        "damage": "40",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d4\u30ab\u30c1\u30e5\u30a6",
+    "img": "1st\/1st1035.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u3058\u308b",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u3067\u3093\u3052\u304d",
+        "cost": [
+          "lightning",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u81ea\u5206\u306b\u308210\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30e9\u30a4\u30c1\u30e5\u30a6",
+    "img": "1st\/1st1036.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3053\u3046\u305d\u304f\u3044\u3069\u3046",
+        "cost": [
+          "lightning",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306e\u300c\u30ef\u30b6\u300d\u3092\u3046\u3051\u306a\u3044\u3002"
+      },
+      {
+        "name": "\u304b\u307f\u306a\u308a",
+        "cost": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "damage": "60",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u81ea\u5206\u306b\u308230\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b3\u30a4\u30eb",
+    "img": "1st\/1st1037.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3067\u3093\u3058\u306f",
+        "cost": [
+          "lightning"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u304c\u3067\u305f\u3089\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u3058\u3070\u304f",
+        "cost": [
+          "lightning",
+          "colorless"
+        ],
+        "damage": "40",
+        "text": "\u81ea\u5206\u3068\u76f8\u624b\u306b40\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u3001\u304a\u4e92\u3044\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u5168\u54e1\u306b\u308210\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ec\u30a2\u30b3\u30a4\u30eb",
+    "img": "1st\/1st1038.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3067\u3093\u3058\u306f",
+        "cost": [
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u3058\u3070\u304f",
+        "cost": [
+          "lightning",
+          "lightning",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "80",
+        "text": "\u81ea\u5206\u3068\u76f8\u624b\u306b80\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u3001\u304a\u4e92\u3044\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u5168\u54e1\u306b\u308220\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d3\u30ea\u30ea\u30c0\u30de",
+    "img": "1st\/1st1039.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u305f\u3044\u3042\u305f\u308a",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30de\u30eb\u30de\u30a4\u30f3",
+    "img": "1st\/1st1040.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u30a8\u30cd\u30a8\u30cd",
+        "text": "\u30de\u30eb\u30de\u30a4\u30f3\u306f\u307f\u305a\u304b\u3089\u300c\u304d\u305c\u3064\u300d\u3057\u3066\u597d\u304d\u306a\u8272\u306e\u30a8\u30cd\u30eb\u30ae\u30fc2\u500b\u5206\u306b\u306a\u308a\u3001\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u3064\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u300c\u306d\u3080\u308a\u30fb\u30de\u30d2\u30fb\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u3068\u304d\u306b\u306f\u4f7f\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u3067\u3093\u3052\u304d",
+        "cost": [
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "damage": "50",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u81ea\u5206\u306b10\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30a8\u30ec\u30d6\u30fc",
+    "img": "1st\/1st1041.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
+        "cost": [
+          "lightning"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
+        "cost": [
+          "lightning",
+          "colorless"
+        ],
+        "damage": "30+",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u306b10\u30c0\u30e1\u30fc\u30b8\u3092\u8ffd\u52a0\u3059\u308b\u3002\u300c\u3046\u3089\u300d\u306a\u3089\u81ea\u5206\u306b\u308210\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b5\u30f3\u30c0\u30fc",
+    "img": "1st\/1st1042.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "90",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u307f\u306a\u308a",
+        "cost": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "colorless"
+        ],
+        "damage": "60",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u81ea\u5206\u306b\u308230\u30c0\u30e1\u30fc\u30b8\u3002"
+      },
+      {
+        "name": "10\u307e\u3093\u30dc\u30eb\u30c8",
+        "cost": [
+          "lightning",
+          "lightning",
+          "lightning",
+          "lightning"
+        ],
+        "damage": "100",
+        "text": "\u81ea\u5206\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u3092\u5168\u3066\u306f\u304c\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b1\u30fc\u30b7\u30a3",
+    "img": "1st\/1st1043.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u306d\u3093\u308a\u304d",
+        "cost": [
+          "psychic"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u30de\u30d2\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30e6\u30f3\u30b2\u30e9\u30fc",
+    "img": "1st\/1st1044.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3058\u3053\u3055\u3044\u305b\u3044",
+        "cost": [
+          "psychic",
+          "psychic"
+        ],
+        "damage": "",
+        "text": "\u81ea\u5206\u306e\u300c\u8d85\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u5168\u3066\u3068\u308a\u306e\u305e\u304f\u3002"
+      },
+      {
+        "name": "\u3061\u3087\u3046\u306d\u3093\u308a\u304d",
+        "cost": [
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d5\u30fc\u30c7\u30a3\u30f3",
+    "img": "1st\/1st1045.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u30c0\u30e1\u30fc\u30b8\u30b9\u30ef\u30c3\u30d7",
+        "text": "\u81ea\u5206\u306e\u5834\u306b\u51fa\u3066\u3044\u308b\u30dd\u30b1\u30e2\u30f3\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u3001\u30dd\u30b1\u30e2\u30f3\u304c\u300c\u304d\u305c\u3064\u300d\u3057\u306a\u3044\u7bc4\u56f2\u3067\u81ea\u7531\u306b\u79fb\u52d5\u3067\u304d\u308b\u3002\u300c\u306d\u3080\u308a\u30fb\u30de\u30d2\u30fb\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u6642\u306f\u4f7f\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u3042\u3084\u3057\u3044\u3072\u304b\u308a",
+        "cost": [
+          "psychic",
+          "psychic",
+          "psychic"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b4\u30fc\u30b9",
+    "img": "1st\/1st1046.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3055\u3044\u307f\u3093\u30ac\u30b9",
+        "cost": [
+          "psychic"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u306d\u3080\u308a\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u307f\u3061\u3065\u308c",
+        "cost": [
+          "psychic",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u300c\u8d85\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002\u6b21\u306e\u76f8\u624b\u306e\u756a\u3067\u81ea\u5206\u304c\u300c\u304d\u305c\u3064\u300d\u3057\u305f\u3068\u304d\u306b\u306f\u3001\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3082\u300c\u304d\u305c\u3064\u300d\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b4\u30fc\u30b9\u30c8",
+    "img": "1st\/1st1047.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3055\u3044\u307f\u3093\u3058\u3085\u3064",
+        "cost": [
+          "psychic"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u3092\u300c\u306d\u3080\u308a\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u3086\u3081\u304f\u3044",
+        "cost": [
+          "psychic",
+          "psychic"
+        ],
+        "damage": "50",
+        "text": "\u76f8\u624b\u304c\u300c\u306d\u3080\u308a\u300d\u72b6\u614b\u306e\u3068\u304d\u3060\u3051\u3001\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b9\u30ea\u30fc\u30d7",
+    "img": "1st\/1st1048.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u306f\u305f\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u3042\u3084\u3057\u3044\u3072\u304b\u308a",
+        "cost": [
+          "psychic",
+          "psychic"
+        ],
+        "damage": "10",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30eb\u30fc\u30b8\u30e5\u30e9",
+    "img": "1st\/1st1049.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304a\u3046\u3075\u304f\u3073\u3093\u305f",
+        "cost": [
+          "psychic"
+        ],
+        "damage": "10\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306e\u51fa\u305f\u6570\u00d710\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u30e8\u30ac\u306e\u30dd\u30fc\u30ba",
+        "cost": [
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "damage": "20+",
+        "text": "\u76f8\u624b\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u00d710\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u8ffd\u52a0\u3059\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30df\u30e5\u30a6\u30c4\u30fc",
+    "img": "1st\/1st1050.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+        "cost": [
+          "psychic",
+          "colorless"
+        ],
+        "damage": "10+",
+        "text": "\u76f8\u624b\u306b\u3064\u3044\u3066\u3044\u308b\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u00d710\u306e\u8ffd\u52a0\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u30d0\u30ea\u30a2\u30fc",
+        "cost": [
+          "psychic",
+          "psychic"
+        ],
+        "damage": "",
+        "text": "\u81ea\u5206\u306b\u3064\u3044\u3066\u3044\u308b\u300c\u8d85\u300d\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306e\u300c\u30ef\u30b6\u300d\u3092\u3046\u3051\u306a\u3044\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b5\u30f3\u30c9",
+    "img": "1st\/1st1051.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3059\u306a\u304b\u3051",
+        "cost": [
+          "fighting"
+        ],
+        "damage": "10",
+        "text": "\u300c\u3059\u306a\u304b\u3051\u300d\u3092\u53d7\u3051\u305f\u76f8\u624b\u306f\u3001\u6b21\u306e\u756a\u306b\u300c\u30ef\u30b6\u300d\u3092\u4f7f\u3046\u3068\u304d\u306b\u3001\u30b3\u30a4\u30f3\u3092\u306a\u3052\u3001\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u6210\u529f\u3001\u300c\u3046\u3089\u300d\u306a\u3089\u300c\u30ef\u30b6\u300d\u306f\u5931\u6557\u3059\u308b\u3002\u300c\u3059\u306a\u304b\u3051\u300d\u306e\u52b9\u679c\u306f1\u56de\u3067\u304d\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30c7\u30a3\u30b0\u30c0",
+    "img": "1st\/1st1052.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3042\u306a\u3092\u307b\u308b",
+        "cost": [
+          "fighting"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u3069\u308d\u304b\u3051",
+        "cost": [
+          "fighting",
+          "fighting"
+        ],
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30c0\u30b0\u30c8\u30ea\u30aa",
+    "img": "1st\/1st1053.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304d\u308a\u3055\u304f",
+        "cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "\u3058\u3057\u3093",
+        "cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "damage": "70",
+        "text": "\u81ea\u5206\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u5168\u54e1\u306b\u308210\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ef\u30f3\u30ea\u30ad\u30fc",
+    "img": "1st\/1st1054.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3051\u305f\u3050\u308a",
+        "cost": [
+          "fighting"
+        ],
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b4\u30fc\u30ea\u30ad\u30fc",
+    "img": "1st\/1st1055.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u3089\u3066\u30c1\u30e7\u30c3\u30d7",
+        "cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "damage": "50-",
+        "text": "\u81ea\u5206\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u00d710\u3060\u3051\u3001\u76f8\u624b\u306b\u3042\u305f\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u304c\u3078\u308b\u3002"
+      },
+      {
+        "name": "\u3058\u3054\u304f\u3050\u308b\u307e",
+        "cost": [
+          "fighting",
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "60",
+        "text": "\u81ea\u5206\u306b\u308220\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ab\u30a4\u30ea\u30ad\u30fc",
+    "img": "1st\/1st1056.png",
+    "stage": "\uff12\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "100",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [
+      {
+        "name": "\u3010\u7279\u6b8a\u80fd\u529b\u3011\u306f\u3093\u3052\u304d",
+        "text": "\u30ab\u30a4\u30ea\u30ad\u30fc\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u305f\u3068\u304d\u306b\u306f\u3001\u304b\u306a\u3089\u305a10\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u3042\u305f\u3048\u308b\u3002\u3053\u306e\u30c0\u30e1\u30fc\u30b8\u306f\u3001\u5f31\u70b9\u3001\u62b5\u6297\u529b\u306e\u5f71\u97ff\u3092\u53d7\u3051\u305a\u3001\u5e38\u306b\u300c10\u300d\u3067\u3042\u308b\u3002\u300c\u306d\u3080\u308a\u30fb\u30de\u30d2\u30fb\u3053\u3093\u3089\u3093\u300d\u72b6\u614b\u306e\u3068\u304d\u306b\u306f\u3064\u304b\u3048\u306a\u3044\u3002"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "\u3061\u304d\u3085\u3046\u306a\u3052",
+        "cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30a4\u30ef\u30fc\u30af",
+    "img": "1st\/1st1057.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "90",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3044\u308f\u304a\u3068\u3057",
+        "cost": [
+          "fighting"
+        ],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "\u304b\u305f\u304f\u306a\u308b",
+        "cost": [
+          "fighting",
+          "fighting"
+        ],
+        "damage": "",
+        "text": "\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u53d7\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002\u305f\u3060\u3057\u30c0\u30e1\u30fc\u30b8\u304c40\u4ee5\u4e0a\u306e\u5834\u5408\u306f\u3001\u305d\u306e\u307e\u307e\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "grass"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30a8\u30d3\u30ef\u30e9\u30fc",
+    "img": "1st\/1st1058.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "70",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30b8\u30e3\u30d6",
+        "cost": [
+          "fighting"
+        ],
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d1\u30f3\u30c1",
+        "cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30dd\u30c3\u30dd",
+    "img": "1st\/1st1059.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3075\u304d\u3068\u3070\u3057",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "10",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3092\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3068\u5165\u308c\u66ff\u3048\u308b\u3002\u5165\u308c\u66ff\u3048\u306f\u76f8\u624b\u304c\u884c\u3046\u3002\u76f8\u624b\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u304c\u3044\u306a\u3044\u3068\u304d\u306b\u306f\u3001\u30c0\u30e1\u30fc\u30b8\u3060\u3051\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d4\u30b8\u30e7\u30f3",
+    "img": "1st\/1st1060.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3075\u304d\u3068\u3070\u3057",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3092\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3068\u5165\u308c\u66ff\u3048\u308b\u3002\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u306f\u76f8\u624b\u304c\u3048\u3089\u3076\u3002\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u304c\u3044\u306a\u3044\u3068\u304d\u306b\u306f\u30c0\u30e1\u30fc\u30b8\u306e\u307f\u3002"
+      },
+      {
+        "name": "\u30aa\u30a6\u30e0\u304c\u3048\u3057",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u524d\u306e\u76f8\u624b\u306e\u756a\u3067\u53d7\u3051\u305f\u300c\u30ef\u30b6\u300d\u3068\u540c\u3058\u300c\u30ef\u30b6\u300d\u3092\u3060\u3059\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30b3\u30e9\u30c3\u30bf",
+    "img": "1st\/1st1061.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u307f\u3064\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30e9\u30c3\u30bf",
+    "img": "1st\/1st1062.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "60",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u304b\u307f\u3064\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "\u3044\u304b\u308a\u306e\u307e\u3048\u3070",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u306e\u6b8b\u308a\u306eHP\u306e\u534a\u5206(\u5207\u308a\u4e0a\u3052)\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30d4\u30c3\u30d4",
+    "img": "1st\/1st1063.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u3046\u305f\u3046",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u76f8\u624b\u3092\u300c\u306d\u3080\u308a\u300d\u72b6\u614b\u306b\u3059\u308b\u3002"
+      },
+      {
+        "name": "\u3086\u3073\u3092\u3075\u308b",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u300c\u30ef\u30b6\u300d\u306e\u4e2d\u304b\u30891\u3064\u3092\u9078\u3073\u3001\u305d\u308c\u3092\u81ea\u5206\u306e\u300c\u30ef\u30b6\u300d\u3068\u3057\u3066\u3064\u304b\u3046\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30ab\u30e2\u30cd\u30ae",
+    "img": "1st\/1st1064.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30cd\u30ae\u3067\u305f\u305f\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "30",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u3046\u3089\u300d\u306a\u3089\u3001\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u3089\u308c\u306a\u3044\u3002\u5834\u306b\u51fa\u3057\u3066\u304b\u30891\u5ea6\u3057\u304b\u4f7f\u3048\u306a\u3044\u3002"
+      },
+      {
+        "name": "\u30ca\u30d9\u3067\u305f\u305f\u304f",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30c9\u30fc\u30c9\u30fc",
+    "img": "1st\/1st1065.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "50",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u25cf",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307f\u3060\u308c\u3065\u304d",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306e\u6570\u00d710\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u3042\u305f\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [],
+    "weakness": {
+      "types": [
+        "lightning"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30e9\u30c3\u30ad\u30fc",
+    "img": "1st\/1st1066.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "120",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605(\u30ad\u30e9)",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u307e\u308b\u307e\u308b",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u30b3\u30a4\u30f3\u3092\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306a\u3089\u3001\u6b21\u306e\u76f8\u624b\u306e\u756a\u306b\u3046\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u304c0\u306b\u306a\u308b\u3002"
+      },
+      {
+        "name": "\u3059\u3066\u307f\u30bf\u30c3\u30af\u30eb",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "80",
+        "text": "\u81ea\u5206\u306b\u308280\u30c0\u30e1\u30fc\u30b8\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30dd\u30ea\u30b4\u30f3",
+    "img": "1st\/1st1067.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "30",
+    "artist": "Tomoaki Imakuni",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc1",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u5f31\u70b9\u3092\u597d\u304d\u306a\u300c\u8272\u300d\u306b\u304b\u3048\u308b\u3002\u305f\u3060\u3057\u300c\u7121\u8272\u300d\u306b\u306f\u3067\u304d\u306a\u3044\u3002\u76f8\u624b\u304c\u30d9\u30f3\u30c1\u306b\u623b\u3063\u305f\u6642\u306b\u305d\u306e\u52b9\u679c\u306f\u304d\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc2",
+        "cost": [
+          "colorless",
+          "colorless"
+        ],
+        "damage": "",
+        "text": "\u81ea\u5206\u306e\u62b5\u6297\u529b\u3092\u3092\u597d\u304d\u306a\u300c\u8272\u300d\u306b\u304b\u3048\u308b\u3002\u305f\u3060\u3057\u300c\u7121\u8272\u300d\u306b\u306f\u3067\u304d\u306a\u3044\u3002\u81ea\u5206\u304c\u30d9\u30f3\u30c1\u306b\u623b\u3063\u305f\u3068\u304d\u306b\u305d\u306e\u52b9\u679c\u306f\u304d\u3048\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [
+        "fighting"
+      ],
+      "amount": "\u00d72"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30df\u30cb\u30ea\u30e5\u30a6",
+    "img": "1st\/1st1068.png",
+    "stage": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3",
+    "hp": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u306f\u305f\u304f",
+        "cost": [
+          "colorless"
+        ],
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "retreat": [
+      "colorless"
+    ],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "pokemon",
+    "subCategory": "",
+    "name": "\u30cf\u30af\u30ea\u30e5\u30a6",
+    "img": "1st\/1st1069.png",
+    "stage": "\uff11\u9032\u5316\u30dd\u30b1\u30e2\u30f3",
+    "hp": "80",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "\u305f\u305f\u304d\u3064\u3051\u308b",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "30\u00d7",
+        "text": "\u30b3\u30a4\u30f3\u30922\u679a\u6295\u3052\u3066\u300c\u304a\u3082\u3066\u300d\u306e\u6570\u00d730\u306e\u30c0\u30e1\u30fc\u30b8\u3092\u76f8\u624b\u306b\u3042\u305f\u3048\u308b\u3002"
+      },
+      {
+        "name": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+        "cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "damage": "20",
+        "text": "\u76f8\u624b\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+      }
+    ],
+    "retreat": [
+      "colorless",
+      "colorless"
+    ],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [
+        "psychic"
+      ],
+      "amount": "-30"
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u3044\u3044\u304d\u305a\u3050\u3059\u308a",
+    "img": "1st\/1st1070.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u81ea\u5206\u306e\u30dd\u30b1\u30e2\u30f31\u5339\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u305d\u306e\u30dd\u30b1\u30e2\u30f3\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u30924\u500b\u307e\u3067\u3068\u308a\u306e\u305e\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u56de\u53ce",
+    "img": "1st\/1st1071.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u624b\u672d\u304b\u30891\u679a\u306e\u30ab\u30fc\u30c9\u3092\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30c8\u30e9\u30c3\u30b7\u30e5\u304b\u30892\u679a\u306e\u597d\u304d\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u3092\u3072\u308d\u3063\u3066\u3001\u624b\u672d\u306b\u52a0\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30a8\u30cd\u30eb\u30ae\u30fc\u30fb\u30ea\u30e0\u30fc\u30d6",
+    "img": "1st\/1st1072.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [
+      "\u76f8\u624b\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u3064\u3044\u3066\u3044\u308b\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30aa\u30fc\u30ad\u30c9\u306f\u304b\u305b",
+    "img": "1st\/1st1073.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u81ea\u5206\u306e\u624b\u672d\u3092\u5168\u90e8\u3059\u3066\u3066\u3001\u65b0\u305f\u306b7\u679a\u306e\u30ab\u30fc\u30c9\u3092\u81ea\u5206\u306e\u5c71\u672d\u304b\u3089\u5f15\u3044\u3066\u624b\u672d\u306b\u3059\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u304d\u305a\u3050\u3059\u308a",
+    "img": "1st\/1st1074.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [
+      "\u81ea\u5206\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u30922\u500b\u307e\u3067\u3001\u3068\u308a\u306e\u305e\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u5143\u6c17\u306e\u304b\u3051\u3089",
+    "img": "1st\/1st1075.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u30c8\u30e9\u30c3\u30b7\u30e5\u304b\u3089\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9\u30921\u679a\u9078\u3093\u3067\u3001HP\u306e\u534a\u5206(\u304d\u308a\u3059\u3066)\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3092\u306e\u305b\u305f\u72b6\u614b\u3067\u30d9\u30f3\u30c1\u306b\u51fa\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u9032\u5316\u30ab\u30fc\u30c9\u3092\u9078\u3076\u3053\u3068\u306f\u3067\u304d\u306a\u3044\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u9000\u5316\u30b9\u30d7\u30ec\u30fc",
+    "img": "1st\/1st1076.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [
+      "\u81ea\u5206\u306e\u9032\u5316\u30dd\u30b1\u30e2\u30f3\u30921\u5339\u9078\u3073\u3001\u9032\u5316\u30ab\u30fc\u30c9\u3092\u4f55\u679a\u3067\u3082\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30c0\u30a6\u30b8\u30f3\u30b0\u30de\u30b7\u30fc\u30f3",
+    "img": "1st\/1st1077.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [
+      "\u624b\u672d\u304b\u3089\u30ab\u30fc\u30c9\u30922\u679a\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30c8\u30e9\u30c3\u30b7\u30e5\u306e\u4e2d\u306b\u3042\u308b\u30c8\u30ec\u30fc\u30ca\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u3068\u3063\u3066\u624b\u672d\u306b\u52a0\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u8d85\u30a8\u30cd\u30eb\u30ae\u30fc\u30ea\u30e0\u30fc\u30d6",
+    "img": "1st\/1st1078.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [
+      "\u81ea\u5206\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u3064\u3044\u3066\u3044\u308b\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u30921\u679a\u3092\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u76f8\u624b\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f31\u5339\u304b\u30892\u679a\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u3092\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30c7\u30a3\u30d5\u30a7\u30f3\u30c0\u30fc",
+    "img": "1st\/1st1079.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u6b21\u306e\u76f8\u624b\u306e\u756a\u306e\u7d42\u308f\u308a\u307e\u3067\u3001\u300c\u30ef\u30b6\u300d\u306b\u3088\u3063\u3066\u3046\u3051\u308b\u30c0\u30e1\u30fc\u30b8\u3092\u3001\u300c-20\u300d\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u306b\u3064\u3051\u3066\u4f7f\u3044\u3001\u6b21\u306e\u81ea\u5206\u306e\u756a\u306e\u6700\u521d\u306b\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u7a81\u98a8",
+    "img": "1st\/1st1080.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [
+      "\u76f8\u624b\u306e\u5834\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3068\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3092\u5165\u308c\u66ff\u3048\u308b\u3002\u3069\u306e\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3092\u51fa\u3055\u305b\u308b\u304b\u306f\u3001\u81ea\u5206\u304c\u81ea\u7531\u306b\u9078\u3076\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u76f8\u624b\u306b\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u304c\u3044\u306a\u3044\u5834\u5408\u306f\u4f7f\u3048\u306a\u3044\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u306a\u3093\u3067\u3082\u306a\u304a\u3057",
+    "img": "1st\/1st1081.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u7279\u6b8a\u72b6\u614b\u306b\u3042\u308b\u30dd\u30b1\u30e2\u30f3\u306e\u5168\u3066\u306e\u7279\u6b8a\u72b6\u614b\u3092\u56de\u5fa9\u3059\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u306b\u305b\u30aa\u30fc\u30ad\u30c9\u306f\u304b\u305b",
+    "img": "1st\/1st1082.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [
+      "\u76f8\u624b\u306e\u624b\u672d\u3092\u3059\u3079\u3066\u76f8\u624b\u306e\u5c71\u672d\u306b\u3082\u3069\u3055\u305b\u3001\u3088\u304f\u304d\u3063\u3066\u304b\u3089\u3001\u65b0\u305f\u306b7\u679a\u3092\u5f15\u3044\u3066\u624b\u672d\u306b\u3055\u305b\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30d1\u30bd\u30b3\u30f3\u901a\u4fe1",
+    "img": "1st\/1st1083.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [
+      "\u624b\u672d\u304b\u30892\u679a\u30ab\u30fc\u30c9\u3092\u3059\u3066\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u5c71\u672d\u304b\u3089\u597d\u304d\u306a\u30ab\u30fc\u30c9\u30921\u679a\u9078\u3093\u3067\u624b\u672d\u306b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u305d\u306e\u3042\u3068\u3067\u5c71\u672d\u3092\u3088\u304f\u304d\u3063\u3066\u3082\u3068\u306b\u623b\u3059\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30d4\u30c3\u30d4\u4eba\u5f62",
+    "img": "1st\/1st1084.png",
+    "stage": "\u30c8\u30ec\u30fc\u30ca\u30fc",
+    "hp": "10",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": "-"
+    },
+    "resistance": {
+      "types": [],
+      "amount": "-"
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30d7\u30e9\u30b9\u30d1\u30ef\u30fc",
+    "img": "1st\/1st1085.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u81ea\u5206\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306e\u300c\u30ef\u30b6\u300d\u306b\u3088\u3063\u3066\u4e0e\u3048\u308b\u30c0\u30e1\u30fc\u30b8\u3092\u300c+10\u300d\u3067\u304d\u308b\u3002\u81ea\u5206\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u306b\u3064\u3051\u3066\u4f7f\u3044\u3001\u81ea\u5206\u306e\u756a\u306e\u7d42\u308f\u308a\u306b\u3001\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u3044\u308c\u304b\u3048",
+    "img": "1st\/1st1086.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25cf",
+    "rules": [
+      "\u81ea\u5206\u306e\u5834\u306e\u5bfe\u6226\u30dd\u30b1\u30e2\u30f3\u3068\u63a7\u3048\u30dd\u30b1\u30e2\u30f3\u3092\u5165\u308c\u66ff\u3048\u308b\u3002\u300c\u306b\u3052\u308b\u300d\u305f\u3081\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u652f\u6255\u3046\u5fc5\u8981\u306f\u306a\u3044\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u56de\u53ce",
+    "img": "1st\/1st1087.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u2605",
+    "rules": [
+      "\u81ea\u5206\u306e\u5834\u306e\u30dd\u30b1\u30e2\u30f31\u5339\u3092\u624b\u672d\u306b\u623b\u3059\u3002\u305d\u306e\u30dd\u30b1\u30e2\u30f3\u306e\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u3001\u9032\u5316\u30ab\u30fc\u30c9\u306f\u5168\u3066\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002\u30d0\u30c8\u30eb\u5834\u306e\u30dd\u30b1\u30e2\u30f3\u3092\u624b\u672d\u306b\u623b\u3059\u3068\u304d\u306f\u3001\u30d9\u30f3\u30c1\u304b\u3089\u30dd\u30b1\u30e2\u30f3\u3092\u30d0\u30c8\u30eb\u5834\u306b\u3060\u3059\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u4ea4\u63db\u304a\u3058\u3055\u3093",
+    "img": "1st\/1st1088.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [
+      "\u81ea\u5206\u306e\u5c71\u672d\u304b\u3089\u597d\u304d\u306a\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9\u304b\u9032\u5316\u30ab\u30fc\u30c9\u30921\u679a\u9078\u3093\u3067\u3001\u624b\u672d\u306e\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9\u304b\u9032\u5316\u30ab\u30fc\u30c9\u3068\u4ea4\u63db\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u305d\u306e\u3042\u3068\u3067\u3001\u81ea\u5206\u306e\u5c71\u672d\u3092\u3088\u304f\u304d\u308b\u3002\u4ea4\u63db\u3059\u308b\u30ab\u30fc\u30c9\u306f\u76f8\u624b\u306b\u898b\u305b\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u56f3\u9451HANDY505",
+    "img": "1st\/1st1089.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u81ea\u5206\u306e\u5c71\u672d\u3092\u4e0a\u304b\u30895\u679a\u307e\u3067\u898b\u3066\u3001\u597d\u304d\u306a\u9806\u756a\u306b\u5165\u308c\u66ff\u3048\u3066\u5c71\u672d\u306b\u623b\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u30bb\u30f3\u30bf\u30fc",
+    "img": "1st\/1st1090.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u304c\u306e\u3063\u3066\u3044\u308b\u81ea\u5206\u306e\u30dd\u30b1\u30e2\u30f3\u5168\u54e1\u304b\u3089\u3001\u30c0\u30e1\u30fc\u30b8\u30ab\u30a6\u30f3\u30bf\u30fc\u3068\u30a8\u30cd\u30eb\u30ae\u30fc\u30ab\u30fc\u30c9\u5168\u3066\u3092\u306f\u304c\u3057\u3066\u3059\u3066\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u80b2\u3066\u5c4b\u3055\u3093",
+    "img": "1st\/1st1091.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [
+      "\u30dd\u30b1\u30e2\u30f3\u3092\u9032\u5316\u3055\u305b\u308b\u3068\u304d\u306b\u4f7f\u3046\u30022\u9032\u5316\u30ab\u30fc\u30c9\u3092\u3044\u304d\u306a\u308a\u3064\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30dd\u30b1\u30e2\u30f3\u306e\u7b1b",
+    "img": "1st\/1st1092.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u76f8\u624b\u306e\u30c8\u30e9\u30c3\u30b7\u30e5\u304b\u3089\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9\u30921\u679a\u9078\u3073\u3001\u76f8\u624b\u306e\u30d9\u30f3\u30c1\u306b\u51fa\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u305f\u3060\u3057\u9032\u5316\u30ab\u30fc\u30c9\u3092\u9078\u3076\u3053\u3068\u306f\u3067\u304d\u306a\u3044\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30de\u30b5\u30ad",
+    "img": "1st\/1st1093.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u25cf",
+    "rules": [
+      "\u5c71\u672d\u304b\u3089\u30ab\u30fc\u30c9\u30922\u679a\u5f15\u3044\u3066\u3001\u624b\u672d\u306b\u52a0\u3048\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30df\u30cb\u30b9\u30ab\u30fc\u30c8",
+    "img": "1st\/1st1094.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Ken Sugimori",
+    "rarity": "\u2605",
+    "rules": [
+      "\u304a\u4e92\u3044\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u624b\u672d\u3092\u898b\u305b\u5408\u3044\u3001\u624b\u672d\u306b\u3042\u308b\u30c8\u30ec\u30fc\u30ca\u30fc\u30ab\u30fc\u30c9\u3092\u5168\u3066\u5c71\u672d\u306b\u623b\u3059\u3002\u305d\u306e\u3042\u3068\u3067\u5c71\u672d\u3092\u3088\u304f\u304d\u3063\u3066\u3001\u30d7\u30ec\u30a4\u3092\u518d\u958b\u3059\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "trainer",
+    "subCategory": "trainer",
+    "name": "\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9",
+    "img": "1st\/1st1095.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [
+      "\u624b\u672d\u304b\u30892\u679a\u306e\u30ab\u30fc\u30c9\u3092\u9078\u3073\u5c71\u672d\u306b\u623b\u3059\u3002\u305d\u306e\u5f8c\u3067\u5c71\u672d\u3092\u3088\u304f\u304d\u3063\u3066\u304b\u30891\u679a\u3072\u3044\u3066\u624b\u672d\u306b\u3059\u308b\u3002"
+    ],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u7279\u6b8a\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u7121\u82722\u500b\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1096.png",
+    "stage": "",
+    "hp": "",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "\u25c6",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u8349\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s001.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u708e\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s002.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u6c34\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s003.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u96f7\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s004.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u8d85\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s005.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  },
+  {
+    "category": "energy",
+    "subCategory": "\u57fa\u672c\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "name": "\u95d8\u30a8\u30cd\u30eb\u30ae\u30fc",
+    "img": "1st\/1st1s006.png",
+    "stage": "",
+    "hp": "",
+    "artist": "",
+    "rarity": "-",
+    "rules": [],
+    "abilities": [],
+    "attacks": [],
+    "retreat": [],
+    "weakness": {
+      "types": [],
+      "amount": []
+    },
+    "resistance": {
+      "types": [],
+      "amount": []
+    }
+  }
+]
